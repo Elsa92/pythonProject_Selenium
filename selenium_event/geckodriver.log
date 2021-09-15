@@ -1,0 +1,29 @@
+1631629525355	geckodriver	INFO	Listening on 127.0.0.1:61534
+1631629528454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Elsa\\AppData\\Local\\Temp\\rust_mozprofilevgbztF"
+1631629528889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elsa\\AppData\\Local\\Temp\\rust_mozprofilevgbztF\\search.json.mozlz4", (void 0)))
+1631629531333	Marionette	INFO	Listening on port 59693
+1631629531650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631629533527	Marionette	INFO	Stopped listening on port 59693
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631630248289	geckodriver	INFO	Listening on 127.0.0.1:52349
+1631630251374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Elsa\\AppData\\Local\\Temp\\rust_mozprofilemdHWMg"
+1631630251881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elsa\\AppData\\Local\\Temp\\rust_mozprofilemdHWMg\\search.json.mozlz4", (void 0)))
+1631630254108	Marionette	INFO	Listening on port 51744
+1631630254565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1631630264661	Marionette	INFO	Stopped listening on port 51744
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631630766875	geckodriver	INFO	Listening on 127.0.0.1:54369
+1631630769944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Elsa\\AppData\\Local\\Temp\\rust_mozprofileu6EUMU"
+1631630770414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elsa\\AppData\\Local\\Temp\\rust_mozprofileu6EUMU\\search.json.mozlz4", (void 0)))
+1631630772835	Marionette	INFO	Listening on port 56921
+1631630773109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1631630779947	Marionette	INFO	Stopped listening on port 56921
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
